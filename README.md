@@ -4,7 +4,7 @@
 Use [Python](https://www.python.org).
 
 ## How can I install Python?
-Download and install [Anaconda][https://www.anaconda.com/download]
+Download and install [Anaconda](https://www.anaconda.com/download).
 
 ## Setting up your computer
 [Setting up a development environment with VS Code and Poetry for Python projects](https://gist.github.com/djbower/c66474000029730ac9f8b73b96071db3)
