@@ -11,9 +11,14 @@ It can be daunting when first setting up Python and integrated development envir
 
 [Setting up a development environment with VS Code and Poetry for Python projects](https://gist.github.com/djbower/c66474000029730ac9f8b73b96071db3)
 
+## Organising your project
+
+[How to organize your Python data science project](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510?permalink_comment_id=4764044)
+
 ## Software licensing
 
 [Choose an open source license](https://choosealicense.com)
+
 [How to Use GNU Licenses for Your Own Software](https://www.gnu.org/licenses/gpl-howto.html)
 
 ## Books
