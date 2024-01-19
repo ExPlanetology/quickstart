@@ -23,3 +23,7 @@ It can be daunting when first setting up Python and integrated development envir
 
 ## Books
 [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+## Technical
+
+[Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
