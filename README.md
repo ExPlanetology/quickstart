@@ -27,4 +27,5 @@ It can be daunting when first setting up Python and integrated development envir
 ## Technical
 
 [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
+
 [Pytest Approx for Accurate Numeric Testing](https://pytest-with-eric.com/pytest-advanced/pytest-approx/)
