@@ -36,3 +36,5 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Pytest Approx for Accurate Numeric Testing](https://pytest-with-eric.com/pytest-advanced/pytest-approx/)
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
+[Using Cython with Poetry](https://stackoverflow.com/questions/63679315/how-to-use-cython-with-poetry)
