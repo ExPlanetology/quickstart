@@ -16,9 +16,9 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 [Set up a development environment with VS Code and Poetry for Python projects](https://gist.github.com/djbower/c66474000029730ac9f8b73b96071db3)
 
-## Organising your project
+## Software installation
 
-[How to organize your Python data science project](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510?permalink_comment_id=4764044)
+[Install guide for ThermoEngine and VapoRock](https://gist.github.com/djbower/8444f8a21cc596e32bb6d78f6be8bdb2)
 
 ## Software licensing
 
@@ -38,3 +38,5 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 [Using Cython with Poetry](https://stackoverflow.com/questions/63679315/how-to-use-cython-with-poetry)
+
+[How to organize your Python data science project](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510?permalink_comment_id=4764044)
