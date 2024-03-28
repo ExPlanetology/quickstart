@@ -20,12 +20,6 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 [Install guide for ThermoEngine and VapoRock](https://gist.github.com/djbower/8444f8a21cc596e32bb6d78f6be8bdb2)
 
-## Software licensing
-
-[Choose an open source license](https://choosealicense.com)
-
-[How to Use GNU Licenses for Your Own Software](https://www.gnu.org/licenses/gpl-howto.html)
-
 ## Books
 [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
@@ -38,6 +32,12 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 [How to organize your Python data science project](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510?permalink_comment_id=4764044)
+
+## Software licensing
+
+[Choose an open source license](https://choosealicense.com)
+
+[How to Use GNU Licenses for Your Own Software](https://www.gnu.org/licenses/gpl-howto.html)
 
 ## Poetry
 
