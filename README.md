@@ -41,6 +41,8 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 ## Poetry
 
+[Interoperability of Poetry and pip](https://gist.github.com/djbower/e9538e7eb5ed3deaf3c4de9dea41ebcd)
+
 [Using Cython with Poetry](https://stackoverflow.com/questions/63679315/how-to-use-cython-with-poetry)
 
 [Build scripts with Poetry](https://github.com/python-poetry/poetry/issues/2740)
