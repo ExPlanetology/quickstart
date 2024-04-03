@@ -33,6 +33,8 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 [How to organize your Python data science project](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510?permalink_comment_id=4764044)
 
+[Semantic Versioning 2.0.0](https://semver.org)
+
 ## Software licensing
 
 [Choose an open source license](https://choosealicense.com)
