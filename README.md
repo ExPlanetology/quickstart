@@ -50,3 +50,5 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Using Cython with Poetry](https://stackoverflow.com/questions/63679315/how-to-use-cython-with-poetry)
 
 [Build scripts with Poetry](https://github.com/python-poetry/poetry/issues/2740)
+
+[Configuring Poetry and Read the Docs](https://stackoverflow.com/questions/64697264/genindex-and-modindex-footer-links-dont-work-in-readthedocs-io/64700797#64700797)
