@@ -27,6 +27,8 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
+[Google developer documentation style guide](https://developers.google.com/style)
+
 [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
 
 [Pytest Approx for Accurate Numeric Testing](https://pytest-with-eric.com/pytest-advanced/pytest-approx/)
