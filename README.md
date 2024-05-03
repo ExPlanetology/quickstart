@@ -25,6 +25,8 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 
 ## Technical
 
+[The guide to Git I never had](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
+
 [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 [Google developer documentation style guide](https://developers.google.com/style)
