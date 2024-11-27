@@ -58,3 +58,7 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Build scripts with Poetry](https://github.com/python-poetry/poetry/issues/2740)
 
 [Configuring Poetry and Read the Docs](https://stackoverflow.com/questions/64697264/genindex-and-modindex-footer-links-dont-work-in-readthedocs-io/64700797#64700797)
+
+## Educational
+
+[Building LLMs from scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
