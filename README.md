@@ -21,7 +21,10 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Install guide for ThermoEngine and VapoRock](https://gist.github.com/djbower/8444f8a21cc596e32bb6d78f6be8bdb2)
 
 ## Books
+
 [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[Free programming books in many languages](https://github.com/EbookFoundation/free-programming-books)
 
 ## Technical
 
