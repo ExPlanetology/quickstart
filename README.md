@@ -67,3 +67,6 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Building LLMs from scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
 [Physics informed neural networks (PINNS)](https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563)
+
+[What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
+
