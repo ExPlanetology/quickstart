@@ -1,25 +1,5 @@
 # QuickStart
 
-## I need to write some code
-If you don't know what code to use, you should most likely use [Python](https://www.python.org).
-
-## How can I install Python?
-Download and install [Anaconda](https://www.anaconda.com/download).
-
-## Setting up your computer
-
-### Windows / GUI
-
-[Set up a development environment for Python projects](https://gist.github.com/djbower/c82b4a70a3c3c74ad26dc572edefdd34)
-
-### Mac
-
-[Set up a development environment with VS Code and Poetry for Python projects](https://gist.github.com/djbower/c66474000029730ac9f8b73b96071db3)
-
-## Software installation
-
-[Install guide for ThermoEngine and VapoRock](https://gist.github.com/djbower/8444f8a21cc596e32bb6d78f6be8bdb2)
-
 ## Books
 
 [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
@@ -49,18 +29,6 @@ Download and install [Anaconda](https://www.anaconda.com/download).
 [Choose an open source license](https://choosealicense.com)
 
 [How to Use GNU Licenses for Your Own Software](https://www.gnu.org/licenses/gpl-howto.html)
-
-## Poetry
-
-[Python and Poetry development tips](https://gist.github.com/djbower/c261042ed40fd615795a77630fd28e7e)
-
-[Interoperability of Poetry and pip](https://gist.github.com/djbower/e9538e7eb5ed3deaf3c4de9dea41ebcd)
-
-[Using Cython with Poetry](https://stackoverflow.com/questions/63679315/how-to-use-cython-with-poetry)
-
-[Build scripts with Poetry](https://github.com/python-poetry/poetry/issues/2740)
-
-[Configuring Poetry and Read the Docs](https://stackoverflow.com/questions/64697264/genindex-and-modindex-footer-links-dont-work-in-readthedocs-io/64700797#64700797)
 
 ## Educational
 
