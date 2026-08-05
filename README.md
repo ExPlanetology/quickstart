@@ -32,6 +32,8 @@
 
 ## Educational
 
+[Mathematical Pathways to Machine Learning](https://github.com/xxl12/from_math_to_ml)
+
 [Building LLMs from scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
 [Physics informed neural networks (PINNS)](https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563)
