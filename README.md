@@ -34,6 +34,14 @@
 
 [Mathematical Pathways to Machine Learning](https://github.com/xxl12/from_math_to_ml)
 
+A common gap between foundational mathematics courses and introductory machine learning is the lack of a clear bridge between them. First-year students often study calculus and linear algebra as separate subjects without seeing how these ideas work together in modern machine learning. At the same time, many excellent machine-learning books assume more mathematical background than beginning students have.
+
+I developed this book to help fill that gap. It shows how linear algebra represents data and models, calculus explains sensitivity and backpropagation, and optimization turns derivatives into learning algorithms.
+
+Growing out of my MATH 225 lectures at Penn State, the book is designed primarily for first-year university students with little or no prior exposure to machine learning. It combines accessible mathematical explanations and worked examples with direct connections to machine learning. Short programming exercises using NumPy will be released later.
+
+My hope is that the book will be useful not only to students, but also to instructors designing interdisciplinary mathematics and machine-learning
+
 [Building LLMs from scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
 [Physics informed neural networks (PINNS)](https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563)
