@@ -3,6 +3,7 @@
 # AI
 
 [AI Tools & Licenses (ETHZ)](https://ethz.ch/en/the-eth-zurich/education/ai-in-education/tools.html)
+
 [How to be a scientist in the age of AI](https://woutermol.com/writings/2026/11/science_with_ai/)
 
 ## Books
