@@ -1,5 +1,9 @@
 # QuickStart
 
+# AI
+
+[AI Tools & Licenses (ETHZ)](https://ethz.ch/en/the-eth-zurich/education/ai-in-education/tools.html)
+
 ## Books
 
 [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
